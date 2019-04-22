@@ -10,3 +10,4 @@
 | filecoin-project/rust-fil-proofs| document PR |[docs: delete the outdated link](https://github.com/filecoin-project/rust-fil-proofs/commits?author=waynewyang) | @waynewyang |
 | filecoin-project/spec| proposal  PR |[a proposal on filecoin pledge mechanism](https://github.com/filecoin-project/specs/pull/238) | @arsstone|
 | arsyun/Essential-Thinking-of-Blockchain | a book by ARS|[Essential-Thinking-of-Blockchain](https://github.com/arsyun/Essential-Thinking-of-Blockchain) | @arsstone|
+| magnshen/IPFS-DHT-Spider-Server | IPFS-DHT-Spider|[IPFS DHT Network Statistics](https://github.com/magnshen/IPFS-DHT-Spider-Server) | @magnshen|
