@@ -9,3 +9,4 @@
 | filecoin-project/go-filecoin | function PR |[Provide porcelain and cli command to retrieve default wallet address](https://github.com/filecoin-project/go-filecoin/commit/29ea5b78615e110b3caf02ac6f3267ac4a42efb6) |@waynewyang|
 | filecoin-project/rust-fil-proofs| document PR |[docs: delete the outdated link](https://github.com/filecoin-project/rust-fil-proofs/commits?author=waynewyang) | @waynewyang |
 | filecoin-project/spec| proposal  PR |[a proposal on filecoin pledge mechanism](https://github.com/filecoin-project/specs/pull/238) | @arsstone|
+| arsyun/Essential-Thinking-of-Blockchain | a book by ARS|[Essential-Thinking-of-Blockchain](https://github.com/arsyun/Essential-Thinking-of-Blockchain) | @arsstone|
