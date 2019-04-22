@@ -8,3 +8,4 @@
 | filecoin-project/go-filecoin | issue PR |[Adds DefaultGasCost instead of hardcoded 100](https://github.com/filecoin-project/go-filecoin/commit/e1697c1c33b9024f042dc546c715cea9713337d3) | @waynewyang |
 | filecoin-project/go-filecoin | function PR |[Provide porcelain and cli command to retrieve default wallet address](https://github.com/filecoin-project/go-filecoin/commit/29ea5b78615e110b3caf02ac6f3267ac4a42efb6) |@waynewyang|
 | filecoin-project/rust-fil-proofs| document PR |[docs: delete the outdated link](https://github.com/filecoin-project/rust-fil-proofs/commits?author=waynewyang) | @waynewyang |
+| filecoin-project/spec| proposal  PR |[a proposal on filecoin pledge mechanism](https://github.com/filecoin-project/specs/pull/238) | @arsstone|
